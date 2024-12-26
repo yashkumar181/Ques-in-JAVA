@@ -32,12 +32,6 @@ class MyMainEmployee{
 
 public class Main {
     public static void main(String[] args) {
-        //MyMainEmployee harry = new MyMainEmployee("ProgrammingWithHarry", 12);
-        MyMainEmployee harry = new MyMainEmployee( "yash");
-        //harry.setName("CodeWithHarry");
-        //harry.setId(34);
-        System.out.println(harry.getId());
-        System.out.println(harry.getName());
         System.out.println("gfdghj");
     }
 }
